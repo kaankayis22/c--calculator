@@ -74,17 +74,6 @@ else if (op == 'e' or op == 'E') {
 
 
 
-string kaan;
-
-  cout << "Would you now like to restart? Please type (yes) or (no) : " ;
-  cin >> kaan;
-
-if (kaan == "Yes" or kaan == "yes") {
-
-}
-else if (kaan == "no" or kaan == "No") {
-
-}
 
   return 0;
 }
